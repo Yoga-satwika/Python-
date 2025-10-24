@@ -28,4 +28,14 @@ height → stores a float
   Float:- A float is a number with a decimal point
 
 # Data Types    
-   
+  A data type in Python tells the computer what kind of value a variable holds. It helps Python understand how to use the data (for calculations, storing text, making decisions, etc.).
+
+| Data Type               | Description          | Example                      |
+| ----------------------- | -------------------- | ---------------------------- |
+| **Integer (`int`)**     | Whole numbers        | 10, -5, 0                    |
+| **Float (`float`)**     | Decimal numbers      | 3.14, -0.5                   |
+| **String (`str`)**      | Text                 | "Hello", "Satwika"           |
+| **Boolean (`bool`)**    | True or False values | True, False                  |
+| **List (`list`)**       | Collection of items  | [1, 2, 3], ["a", "b"]        |
+| **Tuple (`tuple`)**     | Immutable collection | (1, 2, 3)                    |
+| **Dictionary (`dict`)** | Key-value pairs      | {"name": "Alice", "age": 20} |
