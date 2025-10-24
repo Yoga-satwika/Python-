@@ -39,3 +39,9 @@ height → stores a float
 | **List (`list`)**       | Collection of items  | [1, 2, 3], ["a", "b"]        |
 | **Tuple (`tuple`)**     | Immutable collection | (1, 2, 3)                    |
 | **Dictionary (`dict`)** | Key-value pairs      | {"name": "Alice", "age": 20} |
+
+<img width="813" height="145" alt="image" src="https://github.com/user-attachments/assets/7072b5fd-36a2-446b-8c12-da578d1c1cd2" />
+
+
+
+
