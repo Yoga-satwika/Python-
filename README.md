@@ -5,4 +5,5 @@
    <img width="727" height="101" alt="image" src="https://github.com/user-attachments/assets/1131a335-ed91-40e2-8ac4-2cd820b3f686" />
 
  # Introduction to Programming
+   Programming is the process of giving instructions to a computer so that it can perform tasks. These instructions are written in a programming language. Learning programming helps you automate tasks, solve problems, and create software.
 
