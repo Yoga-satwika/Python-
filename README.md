@@ -8,4 +8,5 @@
    Programming is the process of giving instructions to a computer so that it can perform tasks. These instructions are written in a programming language. Learning programming helps you automate tasks, solve problems, and create software.
 
  # Basic Programming Concepts
-  # Variables
+  # Variables 
+  A variable is a storage space in a computer's memory that holds data. You can change its value while the program is running.
