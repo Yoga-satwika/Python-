@@ -12,7 +12,7 @@
   A variable is a storage space in a computer's memory that holds data. You can change its value while the program is running.
                  
     name = "Satwika"   # stores text
-    age = 20           # stores a number
-    height = 5.5       # stores a decimal number
+    age = 22          # stores a number
+    height = 5.3       # stores a decimal number
 
      
