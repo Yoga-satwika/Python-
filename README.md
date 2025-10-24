@@ -15,4 +15,16 @@
     age = 22          # stores a number
     height = 5.3       # stores a decimal number
 
+ name → stores a string
+
+  String:- A string is a piece of text in python, like words, sentences, or any characters.
+
+age → stores an integer
+
+ Integer :- An integer is a whole number 
+
+height → stores a float
+  
+  Float:- A float is a number with a decimal point
+
      
