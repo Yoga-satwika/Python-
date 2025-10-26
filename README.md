@@ -172,7 +172,49 @@ Lists are used to:
    
   Decision making
 
- 
+  Conditionals are statements that allow a program to make decisions based on certain conditions.
+
+  if
+
+  elif (else if)
+
+  else
+
+# if Statement
+
+  The if statement allows a program to check a condition and execute a block of code only if that condition is True.
+
+  age = 20
+
+ if age >= 18:
+   
+  print("You are eligible to vote.")
+
+  # if-else Statement
+
+  When you want one action for True and another for False.
+
+  age = 15
+
+       if age >= 18:
+       print("You are eligible to vote.")
+        else:
+        print("You are not eligible to vote.")
+
+  # if-elif-else Statement
+    
+  Used when you want to test multiple conditions.
+
+    marks = 88
+
+    if marks >= 90:
+    print("Grade: A")
+    elif marks >= 75:
+    print("Grade: B")
+    elif marks >= 50:
+    print("Grade: C")
+    else:
+    print("Grade: F")
 
 
 
