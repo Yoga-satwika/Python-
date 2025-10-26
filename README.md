@@ -28,7 +28,7 @@ height → stores a float
   Float:- A float is a number with a decimal point
 
 # Data Types    
-  A data type in Python tells the computer what kind of value a variable holds. It helps Python understand how to use the data (for calculations, storing text, making decisions, etc.).
+  A data type in Python tells the computer what kind of value a variable holds. It helps Python understand how to use the data (for calculations, storing text, making decisions, etc.). Different operations are valid for different types.
 
 | Data Type               | Description          | Example                      |
 | ----------------------- | -------------------- | ---------------------------- |
@@ -38,9 +38,18 @@ height → stores a float
 | **Boolean (`bool`)**    | True or False values | True, False                  |
 | **List (`list`)**       | Collection of items  | [1, 2, 3], ["a", "b"]        |
 | **Tuple (`tuple`)**     | Immutable collection | (1, 2, 3)                    |
-| **Dictionary (`dict`)** | Key-value pairs      | {"name": "Alice", "age": 20} |
+| **Dictionary (`dict`)** | Key-value pairs      | {"name": "Satwika", "age": 22} |
 
 <img width="813" height="145" alt="image" src="https://github.com/user-attachments/assets/7072b5fd-36a2-446b-8c12-da578d1c1cd2" />
+
+
+# Integer 
+   An integer (often called int) is a whole number — a number without any decimal point.
+It can be positive, negative, or zero.
+
+
+           
+ 
 
 
 
