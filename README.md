@@ -97,10 +97,82 @@ Booleans are used to represent yes/no, on/off, right/wrong, or 1/0 type of logic
 
 ordered, changeable sequence:
 
+Lists are used to:
+
+  Store multiple values in one place.
+
+  Easily add, remove, update, or access data.
+
+    fruits = ["apple", "banana", "cherry"]
+
+    print(fruits[0])   # apple
+    print(fruits[1])   # banana
+    print(fruits[2])   # cherry
+
+# Tuple 
+  
+  Ordered, immutable sequence:
+
+  A Tuple in Python is a collection of items
        
+  Tuples are immutable, meaning you cannot change, add, or remove items once created.
+
+     tuple1 = (1, 2, 3)
+     tuple2 = (4, 5, 6)
+     combined = tuple1 + tuple2
+     print(combined)
+    # Output: (1, 2, 3, 4, 5, 6)
+
+ # Dictionary (dict) 
+   
+  key → value pairs:
+
+  A Dictionary in Python is a collection of data stored in key–value pairs.
+
+  Dictionaries are written inside curly braces { }.
+
+     # Example 1: Simple dictionary
+     person = {
+    "name": "John",
+    "age": 25,
+    "city": "New York"
+    }
+
+    # Example 2: Mixed data types
+    student = {
+    "name": "Emma",
+    "age": 19,
+    "marks": [85, 90, 92],
+    "is_passed": True
+    }
+
+    # Example 3: Empty dictionary
+    data = {}
+
+  # Set 
+  
+  unordered collection of unique items:
+
+  A Set in Python is a collection of unique and unordered items.
+
+  Need to store unique values only.
+
+  Want to perform mathematical operations like union, intersection, and difference.
+
+  Don’t care about the order of elements.
+
+     empty = {}
+     print(type(empty))  # <class 'dict'>
+
+    empty_set = set()
+    print(type(empty_set))  # <class 'set'>
 
 
+# Conditionals 
+   
+  Decision making
 
+ 
 
 
 
