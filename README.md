@@ -52,12 +52,15 @@ It can be positive, negative, or zero.
     b = -3        # negative integer
     c = 0         # zero
 
-     
+# Float (float)  
+
+decimal numbers: 3.14, -0.5     
    
 
 
            
  
+<img width="736" height="104" alt="image" src="https://github.com/user-attachments/assets/dc43670a-e551-486e-9226-ad78a994e489" />
 
 
 
