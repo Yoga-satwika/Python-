@@ -56,12 +56,28 @@ It can be positive, negative, or zero.
 
 decimal numbers: 3.14, -0.5     
    
-
-
-           
+ A float (short for floating-point number) is a number that has a decimal point.
+ It is used when you need fractional or precise values, not just whole numbers.           
  
 <img width="736" height="104" alt="image" src="https://github.com/user-attachments/assets/dc43670a-e551-486e-9226-ad78a994e489" />
 
+# String (str) 
+  
+  text enclosed in quotes: "hello"
+
+  A string is a sequence of characters enclosed in quotes.
+
+         name = "Satwika"
+         language = 'Python'
+         print(name)
+         print(language)
+
+     
+        text = "Hello"
+        print(type(text))
+       # Output: <class 'str'>
 
 
-
+ # Boolean (bool)
+ 
+   True or False
