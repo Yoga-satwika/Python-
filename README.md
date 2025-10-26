@@ -81,3 +81,31 @@ decimal numbers: 3.14, -0.5
  # Boolean (bool)
  
    True or False
+
+  A Boolean (in Python, type bool) is a data type that can have only two possible values:
+✅ True or ❌ False
+
+Booleans are used to represent yes/no, on/off, right/wrong, or 1/0 type of logic.
+
+       is_student = True
+       is_adult = False
+
+       print(is_student)   # True
+       print(type(is_student))   # <class 'bool'>
+
+# List 
+
+ordered, changeable sequence:
+
+       
+
+
+
+
+
+
+
+
+
+
+   
