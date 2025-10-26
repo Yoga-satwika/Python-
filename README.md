@@ -46,6 +46,12 @@ height → stores a float
 # Integer 
    An integer (often called int) is a whole number — a number without any decimal point.
 It can be positive, negative, or zero.
+    # examples of integers
+    a = 10        # positive integer
+    b = -3        # negative integer
+    c = 0         # zero
+
+     
    
 
 
