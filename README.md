@@ -216,27 +216,7 @@ Lists are used to:
     else:
     print("Grade: F")
 
-# Essential Python Topics:
-
-# Data structures deep dive
-
-List: ordered, mutable. Methods: .append(), .extend(), .pop(), .insert(), slicing.
-
-.append() - To add a single new element to the end of a list
-
- .extend() - To add several items to the end of the list at once.
-
- .pop() - To remove an element (default: last one) and optionally store or print it.
-
- .insert() - To insert a new element at a certain index in the list.
-
- slicing - To get or replace a subset (portion) of a list — without changing the whole list.
-
- Tuple: ordered, immutable—good for fixed records like coordinates.
-
- Dict: .get(key, default), iterate .items(), .keys(), .values().
-
- Set: fast membership, use set operations .union(), .intersection().
+# Essential Python Topics
 
  # Introduction to Python: Overview of Python programming language.
 
@@ -273,6 +253,9 @@ It’s designed to be easy to read, simple to write, and powerful enough to buil
      if condition:
     # code to run when condition is True
 
+  <img width="830" height="173" alt="image" src="https://github.com/user-attachments/assets/e42dff23-7635-4b2c-9f0a-f59a01eaf71d" />
+
+
 # if...else Statement
 
 It is used when you want two possible outcomes — one if the condition is true, and another if it’s false.
@@ -281,6 +264,9 @@ It is used when you want two possible outcomes — one if the condition is true,
     # code to run when condition is True
     else:
     # code to run when condition is False
+
+  <img width="803" height="185" alt="image" src="https://github.com/user-attachments/assets/c7c5a11e-0138-4884-922d-c6e6023b9518" />
+
 
 # if...elif...else Statement
 
@@ -292,6 +278,9 @@ It is used when you want two possible outcomes — one if the condition is true,
     # code runs if condition1 is False and condition2 is True
     else:
     # code runs if all above conditions are False
+
+  <img width="818" height="295" alt="image" src="https://github.com/user-attachments/assets/6f31b1a0-abf5-4593-bffc-e85ec1ecfe6d" />
+
 
 # Example with Multiple Conditions
 
@@ -309,9 +298,15 @@ It is used when you want two possible outcomes — one if the condition is true,
     else:
     # code runs if none of the above are True
 
+<img width="836" height="263" alt="image" src="https://github.com/user-attachments/assets/10f7718a-71de-4446-9781-40deee21cc07" />
+
+
 # Nested if Statements
 
  You can place an if inside another if.
+
+ <img width="773" height="244" alt="image" src="https://github.com/user-attachments/assets/b123ef94-86c4-4e36-9f89-7e5122d5dc8b" />
+
 
  
 
