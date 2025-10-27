@@ -244,6 +244,17 @@ Python is a high-level, interpreted programming language created by Guido van Ro
 
 It’s designed to be easy to read, simple to write, and powerful enough to build almost anything — from web apps to AI systems.
 
+# What is Python?
+
+ A python is a high level programmimg language and helps us to communicate with computer.
+
+# Why we use Python?
+
+  We use Python because it’s simple, flexible, and powerful — perfect for both beginners and experts.
+
+# Uses of Python?
+
+ Python is used in web apps , Data Science , AI , Automation etc.
 
 
 
