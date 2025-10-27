@@ -256,6 +256,65 @@ It’s designed to be easy to read, simple to write, and powerful enough to buil
 
  Python is used in web apps , Data Science , AI , Automation etc.
 
+# Control Flow (if, else, elif)
+
+#  Using conditional statements for decision-making
+
+ Control flow means deciding which part of the code should run based on a condition.
+
+# using conditional statements — if, elif, and else.
+
+# If Statement
+
+  If statement is used to run code only when a condition is true.
+
+  Syntax
+    
+     if condition:
+    # code to run when condition is True
+
+# if...else Statement
+
+It is used when you want two possible outcomes — one if the condition is true, and another if it’s false.
+
+    if condition:
+    # code to run when condition is True
+    else:
+    # code to run when condition is False
+
+# if...elif...else Statement
+
+ Used when there are multiple conditions to check.
+
+    if condition1:
+    # code runs if condition1 is True
+    elif condition2:
+    # code runs if condition1 is False and condition2 is True
+    else:
+    # code runs if all above conditions are False
+
+# Example with Multiple Conditions
+
+ You can use logical operators (and, or) inside conditions.
+
+     if condition1 and condition2:
+    # code runs if both conditions are True
+
+    elif condition1 or condition2:
+    # code runs if at least one condition is True
+
+     elif not condition:
+    # code runs if the condition is False
+
+    else:
+    # code runs if none of the above are True
+
+# Nested if Statements
+
+ You can place an if inside another if.
+
+ 
+
 
 
 
