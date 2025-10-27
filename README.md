@@ -238,7 +238,11 @@ List: ordered, mutable. Methods: .append(), .extend(), .pop(), .insert(), slicin
 
  Set: fast membership, use set operations .union(), .intersection().
 
- 
+ # Introduction to Python: Overview of Python programming language.
+
+Python is a high-level, interpreted programming language created by Guido van Rossum and first released in 1991.
+
+It’s designed to be easy to read, simple to write, and powerful enough to build almost anything — from web apps to AI systems.
 
 
 
