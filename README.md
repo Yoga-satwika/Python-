@@ -216,6 +216,29 @@ Lists are used to:
     else:
     print("Grade: F")
 
+# Essential Python Topics:
+
+# Data structures deep dive
+
+List: ordered, mutable. Methods: .append(), .extend(), .pop(), .insert(), slicing.
+
+.append() - To add a single new element to the end of a list
+
+ .extend() - To add several items to the end of the list at once.
+
+ .pop() - To remove an element (default: last one) and optionally store or print it.
+
+ .insert() - To insert a new element at a certain index in the list.
+
+ slicing - To get or replace a subset (portion) of a list — without changing the whole list.
+
+ Tuple: ordered, immutable—good for fixed records like coordinates.
+
+ Dict: .get(key, default), iterate .items(), .keys(), .values().
+
+ Set: fast membership, use set operations .union(), .intersection().
+
+ 
 
 
 
