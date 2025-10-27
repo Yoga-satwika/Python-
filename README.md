@@ -310,6 +310,26 @@ It is used when you want two possible outcomes — one if the condition is true,
 #  Functions and Modules:
 
  # Function?
+
+ A function is a block of code that performs a specific task.
+
+ # Why We Use Functions
+
+  To avoid writing the same code many times
+  
+  To make the code easier to read and manage
+  
+  To divide big programs into smaller parts
+  
+  To reuse the code
+
+    def function_name(parameters):
+    # code to execute
+    return result
+
+  
+
+
  
 
 
