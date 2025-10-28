@@ -97,6 +97,7 @@ Booleans are used to represent yes/no, on/off, right/wrong, or 1/0 type of logic
 
 ordered, changeable sequence:
 
+
 Lists are used to:
 
   Store multiple values in one place.
@@ -326,6 +327,106 @@ It is used when you want two possible outcomes — one if the condition is true,
     def function_name(parameters):
     # code to execute
     return result
+
+<img width="520" height="164" alt="image" src="https://github.com/user-attachments/assets/6a729d45-a7be-4350-8666-13bb5fad073c" />
+
+# Modules in Python
+    
+A module is simply a Python file (.py) that contains functions, variables, or classes which you can use in other programs.
+
+# Why we use module
+
+To organize your code into multiple files.
+
+To reuse code in other programs.
+
+To import Python’s built-in functionalities easily.
+
+    import module_name
+
+# Packages in Python
+
+A package is a collection of modules grouped together in a folder
+
+A package folder must contain a special file named __init__.py (even if it’s empty).
+
+This file tells Python that the folder is a package.
+
+    package_name/
+    │
+    ├── __init__.py        # Marks this folder as a package
+    ├── module1.py         # Module 1
+    ├── module2.py         # Module 2
+    └── main.py            # Program that uses the package
+
+# Data Structures: 
+
+Data Structures are ways to store and organize data in a program so that they can be used efficiently.
+
+# List - Working with list and list operations
+
+ A list is an ordered, changeable (mutable) collection of items.
+
+    list_name = [item1, item2, item3]
+
+<img width="370" height="64" alt="image" src="https://github.com/user-attachments/assets/1668aca1-aa48-409a-b74f-1d2c4d03ddfa" />
+
+# By using list Operations
+
+ <img width="614" height="403" alt="image" src="https://github.com/user-attachments/assets/0f767f7a-3c74-4937-a8d8-f8eb23c1973b" />
+
+# Dictionaries — Understanding Key-Value Pairs
+
+ A dictionary stores data in key-value pairs
+
+     dictionary_name = {key1: value1, key2: value2}
+
+<img width="520" height="196" alt="image" src="https://github.com/user-attachments/assets/01857b7f-acc8-4d37-be3f-5b666d1df08e" />
+
+<img width="468" height="307" alt="image" src="https://github.com/user-attachments/assets/7dbe5f8c-6f38-4a9e-a428-327822cc78dc" />
+
+# Tuples — Introduction and Immutability
+
+A tuple is an ordered, immutable (unchangeable) collection.
+
+     tuple_name = (item1, item2, item3)
+
+<img width="500" height="208" alt="image" src="https://github.com/user-attachments/assets/540a8494-9ebf-4beb-aced-ac2f12d0a24c" />
+
+# Sets — Working with Sets and Set Operations
+
+A set is an unordered collection of unique items.
+
+It automatically removes duplicates.
+
+ Syntax:
+      
+      set_name = {item1, item2, item3}
+
+<img width="521" height="260" alt="image" src="https://github.com/user-attachments/assets/7fb8fccb-9df6-4959-94da-551bf4ef74ab" />
+
+# File Handling in Python
+
+File handling allows you to create, read, write, and modify files directly from your Python programs.
+
+ # Reading and Writing Files: Manipulating Files Using Python
+
+     file = open("filename", "mode")
+
+  <img width="445" height="154" alt="image" src="https://github.com/user-attachments/assets/e6278882-73ec-48d8-884d-2d7fe769e828" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 
