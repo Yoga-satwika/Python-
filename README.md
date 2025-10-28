@@ -1,4 +1,4 @@
-# Python
+<img width="713" height="267" alt="image" src="https://github.com/user-attachments/assets/fea269eb-27a4-44c4-be84-c472f32064b8" /># Python
   Python is a programming language that lets you tell a computer what to do. It is easy to read, write, and understand, making it great for beginners and professionals alike.
  
    
@@ -344,8 +344,8 @@ To import Python’s built-in functionalities easily.
 
     import module_name
 
-    
-
+<img width="713" height="267" alt="image" src="https://github.com/user-attachments/assets/73119bf2-be9c-43e5-ab55-a2994c56c2c4" />
+  
 # Packages in Python
 
 A package is a collection of modules grouped together in a folder
@@ -360,6 +360,8 @@ This file tells Python that the folder is a package.
     ├── module1.py         # Module 1
     ├── module2.py         # Module 2
     └── main.py            # Program that uses the package
+
+    
 
 # Data Structures: 
 
@@ -416,6 +418,8 @@ File handling allows you to create, read, write, and modify files directly from 
      file = open("filename", "mode")
 
   <img width="445" height="154" alt="image" src="https://github.com/user-attachments/assets/e6278882-73ec-48d8-884d-2d7fe769e828" />
+
+
 
 
 
