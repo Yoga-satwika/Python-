@@ -456,6 +456,7 @@ File handling allows you to create, read, write, and modify files directly from 
         # behavior of object
         pass
 
+  <img width="664" height="130" alt="image" src="https://github.com/user-attachments/assets/14f8aeb8-5111-42f1-86b9-2625a06a2427" />
 
   
 
