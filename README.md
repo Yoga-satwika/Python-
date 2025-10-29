@@ -439,7 +439,25 @@ File handling allows you to create, read, write, and modify files directly from 
 
   It defines data(attributes) and function(method) that describes the  behaviour of  an object.
 
-  For example, a class Car defines what all cars have (color, model, speed) and what they can do (start, stop).
+  For example, a class  Car defines what all cars have (color, model, speed) and what they can do (start, stop).
+
+ # What is an Object?
+
+   An object is an instance of a class — a real example created from the class blueprint.
+
+   
+     class ClassName:
+    # attributes and methods
+    def __init__(self):
+        # constructor - runs when an object is created
+        pass
+
+    def method_name(self):
+        # behavior of object
+        pass
+
+
+  
 
   
 
