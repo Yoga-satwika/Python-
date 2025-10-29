@@ -508,6 +508,20 @@ To handle these situations gracefully, Python provides a mechanism called Except
 
   An exception is an error that occurs during the execution of a program that disrupts the normal flow of instructions.
 
+# Decorators: Enhancing Functions using Decorators
+
+A decorator is a function that adds extra functionality to another function without changing its original code.
+
+It’s often used for:
+
+Logging
+
+Authorization
+
+Measuring execution time
+
+Modifying outputs
+
   
 
 
