@@ -460,6 +460,15 @@ File handling allows you to create, read, write, and modify files directly from 
 
   <img width="736" height="115" alt="image" src="https://github.com/user-attachments/assets/ca50ab2f-253c-4463-8d88-80815ccb28f7" />
 
+#  Inheritance: Understanding inheritance and polymorphism. 
+
+ # What is Inheritance?
+
+  Inheritance means one class can inherit properties and methods from another class.
+
+  It helps to reuse code and avoid duplication.
+
+  
 
   
 
