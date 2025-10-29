@@ -468,6 +468,20 @@ File handling allows you to create, read, write, and modify files directly from 
 
   It helps to reuse code and avoid duplication.
 
+  Parent (Base/Super) Class: The class whose properties are inherited.
+ 
+  Child (Derived/Sub) Class: The class that inherits properties.
+
+    class Parent:
+    # parent class code
+
+    class Child(Parent):
+    # child class inherits from Parent
+
+<img width="736" height="115" alt="image" src="https://github.com/user-attachments/assets/25112b5d-1f30-4fa8-bd7f-a53560cf1a78" />
+
+
+
   
 
   
