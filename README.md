@@ -492,6 +492,11 @@ Polymorphism means many forms.
 
 It allows the same method name to perform different actions depending on the object.
 
+<img width="649" height="128" alt="image" src="https://github.com/user-attachments/assets/db4a9047-5af9-4670-bef6-57c5b897d24f" />
+
+
+
+
 
  
 
