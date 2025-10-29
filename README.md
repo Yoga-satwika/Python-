@@ -566,7 +566,33 @@ A higher-order function is a function that takes another function as an argument
 
  <img width="452" height="139" alt="image" src="https://github.com/user-attachments/assets/f7b1197c-70cc-4297-ac25-8840827d6411" />
 
- 
+ # Testing in Python
+
+ Testing is a way to check if your code works correctly and behaves as expected.
+
+ It helps find bugs early and ensures that changes don’t break existing code.
+
+# Unit Testing: Writing and Running Unit Tests in Python
+
+# What is Unit Testing?
+
+  Unit testing means testing individual parts (units) of your code — such as functions or classes — independently.
+
+  Python provides a built-in module for this called unittest.
+
+   import unittest
+
+     class TestExample(unittest.TestCase):  # Create a test class
+    def test_addition(self):           # Test function must start with "test_"
+        result = 2 + 3
+        self.assertEqual(result, 5)    # Check if result == 5
+
+    if __name__ == '__main__':
+    unittest.main()
+
+<img width="703" height="174" alt="image" src="https://github.com/user-attachments/assets/fa7de22b-6881-423f-853b-8415500d30b5" />
+
+
 
 
 
