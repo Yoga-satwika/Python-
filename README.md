@@ -510,7 +510,7 @@ To handle these situations gracefully, Python provides a mechanism called Except
 
 # Decorators: Enhancing Functions using Decorators
 
-A decorator is a function that adds extra functionality to another function without changing its original code.
+  A decorator is a function that adds extra functionality to another function without changing its original code.
 
 It’s often used for:
 
@@ -521,6 +521,57 @@ Authorization
 Measuring execution time
 
 Modifying outputs
+
+<img width="394" height="275" alt="image" src="https://github.com/user-attachments/assets/78924ac6-a311-495a-b041-a8f58420bb46" />
+
+# Generators: Creating and Using Generators for Efficient Iteration
+
+# Generators 
+
+A generator is a function that returns an iterator and allows you to iterate through data one item at a time — saving memory.
+
+Instead of using return, it uses yield.
+
+<img width="602" height="304" alt="image" src="https://github.com/user-attachments/assets/e832a09f-370d-4753-9754-45cca0ebef70" />
+
+# Lambda Functions: Introduction to Anonymous Functions
+
+# What is a Lambda Function?
+
+    lambda arguments: expression
+
+<img width="299" height="83" alt="image" src="https://github.com/user-attachments/assets/ff122747-359c-4ce4-bdd0-31393565b10f" />
+
+Lambdas are often used with functions like map(), filter(), and reduce().
+
+# Higher Order Functions (map, filter, reduce)
+
+A higher-order function is a function that takes another function as an argument or returns a function.
+
+# 1. map()
+
+   applies a function to all items in a list
+
+<img width="458" height="101" alt="image" src="https://github.com/user-attachments/assets/afeaa3fc-ac2d-4abf-8a27-ae412f6b98cb" />
+
+# filter() 
+ 
+  filters elements based on a condition
+
+  <img width="505" height="97" alt="image" src="https://github.com/user-attachments/assets/d3b28428-99ef-416e-b26f-0f23b338e9c2" />
+
+ # reduce() 
+ 
+ applies a function cumulatively to items (from functools module)
+
+ <img width="452" height="139" alt="image" src="https://github.com/user-attachments/assets/f7b1197c-70cc-4297-ac25-8840827d6411" />
+
+ 
+
+
+
+
+
 
   
 
