@@ -484,6 +484,8 @@ File handling allows you to create, read, write, and modify files directly from 
 
 # Using super() to Access Parent Class
 
+<img width="610" height="149" alt="image" src="https://github.com/user-attachments/assets/8ff096c1-a749-4e37-a84b-e4d7ba6904fa" />
+
  
 
 
