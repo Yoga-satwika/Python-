@@ -486,6 +486,13 @@ File handling allows you to create, read, write, and modify files directly from 
 
 <img width="610" height="149" alt="image" src="https://github.com/user-attachments/assets/8ff096c1-a749-4e37-a84b-e4d7ba6904fa" />
 
+# Polymorphism
+
+Polymorphism means many forms.
+
+It allows the same method name to perform different actions depending on the object.
+
+
  
 
 
