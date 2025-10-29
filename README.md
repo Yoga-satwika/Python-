@@ -464,6 +464,8 @@ File handling allows you to create, read, write, and modify files directly from 
 
  # What is Inheritance?
 
+  Inherit means to get something from someone else.
+
   Inheritance means one class can inherit properties and methods from another class.
 
   It helps to reuse code and avoid duplication.
@@ -479,6 +481,10 @@ File handling allows you to create, read, write, and modify files directly from 
     # child class inherits from Parent
 
 <img width="736" height="115" alt="image" src="https://github.com/user-attachments/assets/25112b5d-1f30-4fa8-bd7f-a53560cf1a78" />
+
+# Using super() to Access Parent Class
+
+ 
 
 
 
