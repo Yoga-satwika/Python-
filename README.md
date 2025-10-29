@@ -1,4 +1,4 @@
-<img width="713" height="267" alt="image" src="https://github.com/user-attachments/assets/fea269eb-27a4-44c4-be84-c472f32064b8" /># Python
+#  Python
   Python is a programming language that lets you tell a computer what to do. It is easy to read, write, and understand, making it great for beginners and professionals alike.
  
    
