@@ -420,8 +420,28 @@ File handling allows you to create, read, write, and modify files directly from 
   <img width="445" height="154" alt="image" src="https://github.com/user-attachments/assets/e6278882-73ec-48d8-884d-2d7fe769e828" />
 
 # Object-Oriented Programming (OOP)
+ 
+  Object-Oriented Programming (OOP) is a programming approach that organizes code around objects.
 
+# It helps you to:
 
+  Structure your code clearly
+
+  Reuse code easily
+
+  Make large programs easier to manage and extend
+
+# Classes and Objects: Introduction to classes and objects in Python. 
+
+# What is a Class?
+ 
+  A class is like a blueprint or template for creating objects.
+
+  It defines data(attributes) and function(method) that describes the  behaviour of  an object.
+
+  For example, a class Car defines what all cars have (color, model, speed) and what they can do (start, stop).
+
+  
 
 
 
