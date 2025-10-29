@@ -494,6 +494,22 @@ It allows the same method name to perform different actions depending on the obj
 
 <img width="649" height="128" alt="image" src="https://github.com/user-attachments/assets/db4a9047-5af9-4670-bef6-57c5b897d24f" />
 
+# Error Handling
+
+  In programming, errors are common.
+
+Sometimes your code may crash because of mistakes like dividing by zero, missing files, or invalid input.
+
+To handle these situations gracefully, Python provides a mechanism called Exception Handling.
+
+# Exception Handling: Dealing with Errors and Exceptions
+
+# What is an Exception?
+
+  An exception is an error that occurs during the execution of a program that disrupts the normal flow of instructions.
+
+  
+
 
 
 
