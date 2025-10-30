@@ -494,6 +494,22 @@ It allows the same method name to perform different actions depending on the obj
 
 <img width="649" height="128" alt="image" src="https://github.com/user-attachments/assets/db4a9047-5af9-4670-bef6-57c5b897d24f" />
 
+# Encapsulation
+
+   Encapsulation means binding data and methods together in one unit (a class).
+
+   It also means protecting data from direct access using private variables.
+   
+   <img width="345" height="185" alt="image" src="https://github.com/user-attachments/assets/3bfe2000-0ae1-4662-83ad-1159fa5660b3" />
+   
+# Abstraction
+
+   Abstraction means showing only necessary features and hiding internal details.
+  
+   It helps to reduce complexity.
+
+  <img width="376" height="239" alt="image" src="https://github.com/user-attachments/assets/2e1c0b8d-705d-4455-8f07-6077b65435b8" />
+
 # Error Handling
 
   In programming, errors are common.
